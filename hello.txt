@@ -1,2 +1,4 @@
 helloECHO 处于打开状态。
 xhl_hello 
+ECHO 处于打开状态。
+xhl very good 
